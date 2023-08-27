@@ -1,0 +1,41 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Work Sans', sans-serif;
+margin: 0px;
+
+}
+.header{
+    background-image: url("../images/banner/banner2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.thinks{
+    text-align: right;
+    padding-top: 200px;
+    padding-left: 800px;
+    padding-right: 150px;
+    padding-bottom: 200px;
+    
+}
+.think-title{
+    color: var(--dark-01, #151414);
+font-size: 55px;
+font-style: normal;
+font-weight: 700;
+}
+.think-description{
+    color: var(--dark-02, #444343);
+font-family: Work Sans;
+font-size: 14px;
+font-weight: 400;
+margin-top: 0px;
+}
+.think-btn{
+    border-radius: 5px;
+background: #F15B22;
+color: #FFF;
+font-size: 14px;
+padding: 10px 20px;
+border-style: none;
+}
